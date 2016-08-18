@@ -1,5 +1,9 @@
 # oo-sakedonya
 
+http://gc.sfc.keio.ac.jp/class/2005_14921/slides/12/
+
+を拝見して実際にモデリングをしようとしています。
+
 ## モノ
 
 * コンテナ
